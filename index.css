@@ -62,7 +62,7 @@ a {
 
 .btn:hover,
 .btn:focus {
-  box-shadow: 0 1px 2px var(--clr-green-alpha), 0 2px 4px var(--clr-green-alpha),
-    0 4px 8px var(--clr-green-alpha), 0 8px 16px var(--clr-green-alpha),
-    0 16px 32px var(--clr-green-alpha), 0 32px 64px var(--clr-green-alpha);
+  box-shadow: 0 1px 2px var(rgba(95, 147, 65, 0.07)), 0 2px 4px var(rgba(95, 147, 65, 0.07)),
+    0 4px 8px var(rgba(95, 147, 65, 0.07)), 0 8px 16px var(rgba(95, 147, 65, 0.07)),
+    0 16px 32px var(rgba(95, 147, 65, 0.07)), 0 32px 64px var(rgba(95, 147, 65, 0.07));
 }
