@@ -41,9 +41,9 @@ a {
 }
 
 .hero {
-    background-color: var(--clr-green);
+    background-color: #5f9341;
     padding: 1em;
-    color: #fff;
+    color: white;
     margin: 0.5em 0;
     text-align: center;
     letter-spacing: 1px;
