@@ -19,6 +19,8 @@ button {
     padding: 10px 20px;
     border: 1px solid #5f9341;
     font-weight: bold;
+    cursor: pointer;
+    transition: all 450ms;
 }
 
 #delete-btn {
@@ -58,14 +60,9 @@ a {
     gap: 5px;
 }
 
-.btn {
-  background-color: var(--clr-green);
-  color: #fff;
-  font-family: var(--ff-main);
-  font-weight: bold;
-  padding: 0.5em 0.75em;
-  border: 1px solid var(--clr-green);
-  margin: 0.5em 0;
-  cursor: pointer;
-  transition: all 450ms;
+.btn:hover,
+.btn:focus {
+  box-shadow: 0 1px 2px var(--clr-green-alpha), 0 2px 4px var(--clr-green-alpha),
+    0 4px 8px var(--clr-green-alpha), 0 8px 16px var(--clr-green-alpha),
+    0 16px 32px var(--clr-green-alpha), 0 32px 64px var(--clr-green-alpha);
 }
