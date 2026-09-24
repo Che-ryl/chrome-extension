@@ -10,7 +10,7 @@ This is a solution to the [Chrome extension leads tracker project](https://scrim
 Visit [leads tracker](https://cozy-entremet-db69c2.netlify.app/).
 
 ## Screenshot
-<p align="left"><img width="1500" height="800" alt="Screenshot of dashboard browser extension landing page." src="https://github.com/user-attachments/assets/af99338a-7710-4fb6-98a1-36280a38cf82"></p>
+<p align="left"><img width="1400" height="800" alt="Screenshot of dashboard browser extension landing page." src="https://github.com/user-attachments/assets/af99338a-7710-4fb6-98a1-36280a38cf82"></p>
 
 
 ## How to install
